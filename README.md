@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 Solo developer & founder of Infiny by Aura — a next-gen super app combining social media 📸, music 🎵, streaming 🔴, and communities 💬.<br>I build products with long-term vision 🧠, clean architecture ⚙️, and real user focus 🎯.<br>Not chasing hype — building something that actually lasts 🚀
+I'm a self-taught full-stack developer passionate about building software from the ground up.
+
+🚀 Founder of Infiny
+💻 Building web applications, developer tools, and indie games
+🌱 Currently exploring game development, backend systems, and scalable architectures
+⚡ I enjoy turning ideas into polished, production-ready projects.
+🎯 My goal is to build products that solve real problems and continue improving over time.
 
 
 ## 🌐 Socials:
